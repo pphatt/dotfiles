@@ -4,7 +4,7 @@
 
 #
 
-### 1. Download and install Hack font from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+### 1. Download and install Jetbrain Mono font from [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
 ### 2. Config terminal settings
 
@@ -15,10 +15,10 @@
 - Copy the content in the powershell.settings.json in the repository, paste it to the settings.json file (or just copy the color schemes)
 - If you paste entire powershell.settings.json, you don't need to do below steps of this section, it automatically configure for you.
 - Go the **Settings/Defaults/Appearance**, in color scheme choose the **"One Half Dark (modded)"**
-- Font face choose **Hack Nerd Font** (Hack NF) (You can choose **Bold** or Regular)
+- Font face choose **Jetbrain Mono Font** (Jetbrain Mono) (You can choose **Bold** or Regular)
 - Scroll down, there is a Tranparency section. Set **Background opacity** = 100%, check **Enable acrylic material**
 
-- Sometime, when installing the Hack Nerd Font, the font can be error sometime. [Here is the solution](https://stackoverflow.com/a/77596968/30030901)
+- Sometime, when installing the Jetbrain Mono Font, the font can be error sometime. [Here is the solution](https://stackoverflow.com/a/77596968/30030901)
 
 ### 3. Config terminal
 
