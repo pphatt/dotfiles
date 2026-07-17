@@ -7,17 +7,8 @@
 # Unignore .config folder
 !/.config/
 
-# Unignore .wakatime-config folder
-!/.wakatime-config/
-
-# Unignore webstorm-settings folder
-!/webstorm-settings
-
-# Unignore visualstudio-settings folder
-!/visualstudio-settings
-
-# Unignore visualstudio-extensions folder
-!/visualstudio-extensions
+# Unignore ide-setup folder
+!/ide-setup/
 
 # Unignore images folder
 !/images/
