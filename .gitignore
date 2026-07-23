@@ -7,8 +7,11 @@
 # Unignore .config folder
 !/.config/
 
-# Unignore ide-setup folder
-!/ide-setup/
+# Unignore ide folder
+!/ide/
+
+# Unignore terminal folder
+!/terminal/
 
 # Unignore images folder
 !/images/
